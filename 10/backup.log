@@ -1,0 +1,7 @@
+[23:04:10 01-11-2025] Начинаем сортировку в папке test
+[23:04:10 01-11-2025] Файл test/another_image.jpg, отсортирован в test/Images/another_image.jpg
+[23:04:10 01-11-2025] Файл test/document.docx, отсортирован в test/Documents/document.docx
+[23:04:10 01-11-2025] Файл test/image.png, отсортирован в test/Images/image.png
+[23:04:10 01-11-2025] Файл test/some_py.py, отсортирован в test/Other/some_py.py
+[23:04:10 01-11-2025] Файл test/txt_file.txt, отсортирован в test/Documents/txt_file.txt
+[23:04:10 01-11-2025] Сортировка завершена
